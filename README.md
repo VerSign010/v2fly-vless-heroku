@@ -27,7 +27,8 @@ vless 性能更加优秀，占用资源更少。
 
 ### UUID
 
-`UUID` 默认为 `3a53a3e5-da83-48d2-aee9-d88a498eb3dd` 可自行设置。
+`UUID` 默认为 `76709679-6b5f-4191-b17c-5c6d7d7783ef` 可自行设置。
+UUID生成网址：https://www.uuidgenerator.net/
 
 ## 流量中转
 
