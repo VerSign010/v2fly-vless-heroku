@@ -34,10 +34,7 @@ cat << EOF > /usr/local/etc/v2ray/config.json
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/app"
-        }
+        "network": "ws"
       }
     }
   ],
