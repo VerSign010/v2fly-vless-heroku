@@ -29,7 +29,7 @@ UUID生成网址：https://www.uuidgenerator.net/
 addEventListener(  
     "fetch",event => {  
         let url=new URL(event.request.url);  
-        url.hostname="应用名称.herokuapp.com"; //
+        url.hostname="应用名称.herokuapp.com";  
         let request=new Request(url,event.request);  
         event. respondWith(  
             fetch(request)  
